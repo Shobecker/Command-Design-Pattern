@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Aggregator/Orders.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Commands/Invoker.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Commands/CMDGetTab.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Commands/CMDGetMenu.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Aggregator/Menu.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Commands/CMDPlaceOrder.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Commands/CMDGetOrders.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Aggregator/MenuItem.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Aggregator/OrderItem.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Aggregator/Aggregator.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/basicrestaurantsystem/BasicRestaurantSystem.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Aggregator/Tab.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/SystemInterface/SystemInterface.java</file>
+        </group>
+    </open-files>
+</project-private>
