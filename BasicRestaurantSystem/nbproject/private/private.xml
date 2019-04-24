@@ -3,19 +3,29 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Aggregator/Orders.java</file>
-            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Commands/Invoker.java</file>
-            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Commands/CMDGetTab.java</file>
-            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Commands/CMDGetMenu.java</file>
-            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Aggregator/Menu.java</file>
-            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Commands/CMDPlaceOrder.java</file>
-            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Commands/CMDGetOrders.java</file>
-            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Aggregator/MenuItem.java</file>
-            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Aggregator/OrderItem.java</file>
-            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Aggregator/Aggregator.java</file>
-            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/basicrestaurantsystem/BasicRestaurantSystem.java</file>
-            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/Aggregator/Tab.java</file>
-            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/BasicRestaurantSystem/src/SystemInterface/SystemInterface.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/AddOn/HolidayGreeting.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/AddOn/AddOn.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/Decorator/Decorator.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/AddOn/Coupon100Get10Percent.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/Receipt/StoreHeader.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/Decorator/PreDecorator.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/Items/PurchasedItems.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/AddOn/Rebate.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/Decorator/PostDecorator.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/Receipt/ReceiptFactory.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/Tax/TaxComputationMethod.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/Receipt/BasicReceipt.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/Tax/MDTaxComputation.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/AddOn/Coupon.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/pkg716assignment5/Main.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/AddOn/Rebate1406.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/Receipt/Receipt.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/AddOn/SecondaryHeading.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/AddOn/SummerSales.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/Tax/MATaxComputation.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/Tax/CATaxComputation.java</file>
+            <file>file:/C:/Users/Elias/Documents/NetBeansProjects/716Assignment5/src/Items/StoreItem.java</file>
         </group>
     </open-files>
 </project-private>
